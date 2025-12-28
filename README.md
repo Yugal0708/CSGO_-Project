@@ -4,7 +4,7 @@ This project focuses on predicting round-level outcomes in Counter-Strike: Globa
 
 The project is implemented using Python and Jupyter Notebook and is intended for educational and analytical purposes.
 
-📌 Project Objectives
+**📌 Project Objectives**
 
 Analyze CS:GO round snapshot data
 
@@ -14,7 +14,9 @@ Apply multiple machine learning classification algorithms
 
 Compare model performance using standard evaluation metrics
 
-📊 Dataset Information
+
+
+**📊 Dataset Information**
 
 The project uses a CS:GO round-level dataset containing detailed match statistics such as team economy, weapons, and round conditions.
 
@@ -27,7 +29,9 @@ Expected file name:
 
 csgo_round_snapshots.csv
 
-🧠 Machine Learning Models Implemented
+
+
+**🧠 Machine Learning Models Implemented**
 
 Logistic Regression
 
@@ -51,9 +55,11 @@ Seaborn
 
 Scikit-learn
 
-Jupyter Notebook
+Google Colab Notebook
 
-🔁 Project Workflow
+
+
+**🔁 Project Workflow**
 
 Data loading and inspection
 
@@ -71,25 +77,15 @@ Confusion matrix
 
 Classification report
 
-▶️ How to Run the Project
-1. Clone the Repository
-git clone https://github.com/your-username/csgo-match-outcome-prediction.git
-cd csgo-match-outcome-prediction
-
-2. Install Dependencies
-pip install -r requirements.txt
-
-3. Run the Notebook
-   Google Colab notebook
 
 
-Open the notebook file and update the dataset path if required.
-
-📈 Results
+**📈 Results**
 
 The notebook presents a comparative analysis of multiple machine learning models and highlights their effectiveness in predicting CS:GO round outcomes based on historical data.
 
-🚀 Future Enhancements
+
+
+**🚀 Future Enhancements**
 
 Hyperparameter tuning
 
@@ -101,12 +97,14 @@ Model deployment using Streamlit
 
 Real-time prediction simulation
 
-👤 Author
+
+**👤 Author**
 
 Yugal Bilawane
 BSc Data Science (Industry 4.0)
 AI & Data Science – iHub IIT Roorkee
 
-📄 License
+
+**📄 License**
 
 This project is intended for academic and educational use
